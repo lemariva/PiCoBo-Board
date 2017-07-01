@@ -24,7 +24,7 @@ Applications
 
 PCB Boards
 -----
-![PCB Boards](https://raw.githubusercontent.com/lemariva/PiCoBo-Board/pics/PiCoBo_boards.png)
+![PCB Boards](https://raw.githubusercontent.com/lemariva/PiCoBo-Board/master/pics/PiCoBo_boards.png)
 
 More Info: 
 -------------------

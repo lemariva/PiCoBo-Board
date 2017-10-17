@@ -1,4 +1,4 @@
-# PiCoBo-Hardware
+# PiCoBo-Board 
 
 **PiCoBo** is a multi-target board. I designed it using the **MSP430G2553** (20/28 pin version), which is part of the MSP430 Texas Instruments family of ultra-low-power microcontrollers. 
 
